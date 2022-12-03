@@ -118,3 +118,5 @@
 - [Daniel Nduati](https://github.com/DanNduati)
 - [Simon Hollingshead](https://github.com/simonhollingshead)
 - [yangyangdaji](https://github.com/yangyangdaji)
+- [xiaotianxt](https://github.com/xiaotianxt)
+- [Nour Agha](https://github.com/nourkagha)
