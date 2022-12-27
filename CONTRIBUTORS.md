@@ -120,3 +120,5 @@
 - [yangyangdaji](https://github.com/yangyangdaji)
 - [xiaotianxt](https://github.com/xiaotianxt)
 - [Nour Agha](https://github.com/nourkagha)
+- [Brian Lachniet](https://github.com/blachniet)
+- [ShortArrow](https://github.com/ShortArrow)
